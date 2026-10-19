@@ -3,8 +3,7 @@
 Video streaming and voice over IP labs: H.264 encoding with FFmpeg, RTSP unicast and RTP multicast streaming
 with live555 and VLC, a smartphone used as a surveillance camera, and SIP calls through a Kamailio server.
 
-Coursework of the Video and Voice over IP module, Master in Signal and Telecommunications, University of Western Brittany.
-Course by Dr Yahia Benmoussa. The course material is not included.
+Coursework of the Video and Voice over IP module, Master in Networks and Telecommunications, University of Boumerdes.
 
 ## What is built
 
