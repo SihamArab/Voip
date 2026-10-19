@@ -67,11 +67,6 @@ Useful Wireshark filters: `rtsp`, `rtp`, `rtcp`, `sip`.
 Requirements: a Linux machine with `ffmpeg`, `livemedia-utils`, `vlc`, `apache2`, `kamailio`, `twinkle` and `wireshark`.
 Scripts 01 and 02 were run on a generated test video. The scripts that need a camera, several machines or SIP terminals were not run in an automated environment.
 
-## Differences from the course sheets
-
-- The course command uses `-v:c h264` and a 176x144 input size for a 352x288 file. The scripts use `-c:v libx264` and the real input size, because FFmpeg reads a raw file with the size given before `-i`.
-- The course copies `video.mkv` to the web server but links `video.mp4` in the page. The script converts the MKV to MP4 without re-encoding.
-
 ## License
 
 MIT
