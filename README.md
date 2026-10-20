@@ -1,9 +1,9 @@
 # video-streaming-voip-labs
 
-Video streaming and voice over IP labs: H.264 encoding with FFmpeg, RTSP unicast and RTP multicast streaming
-with live555 and VLC, a smartphone used as a surveillance camera, and SIP calls through a Kamailio server.
+Video and Voice over IP Project, Master in Networks and Telecommunications, University of Boumerdes.2025
 
-Coursework of the Video and Voice over IP module, Master in Networks and Telecommunications, University of Boumerdes.
+Video streaming and voice over IP Project : H.264 encoding with FFmpeg, RTSP unicast and RTP multicast streaming
+with live555 and VLC, a smartphone used as a surveillance camera, and SIP calls through a Kamailio server.
 
 ## What is built
 
